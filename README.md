@@ -1,0 +1,1 @@
+Desenvolver e avaliar modelos de machine learning para prever se um cliente será um bom pagador ou não, com base nas informações fornecidas. Desenvolvimento de habilidades em análise de dados, pré-processamento, seleção de modelos, avaliação de desempenho e interpretação de resultados, aplicadas em um contexto de classificação de score de crédito.
